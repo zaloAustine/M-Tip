@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BFBC6CE2279E9DF400DC9CF4 /* launch.png in Resources */ = {isa = PBXBuildFile; fileRef = BFBC6CE0279E9DF400DC9CF4 /* launch.png */; };
+		BFBC6CE3279E9DF400DC9CF4 /* home.png in Resources */ = {isa = PBXBuildFile; fileRef = BFBC6CE1279E9DF400DC9CF4 /* home.png */; };
 		BFDA61272798B4A200DD6D70 /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFDA61262798B4A200DD6D70 /* CardView.swift */; };
 		BFFFD6172790A0C0003D8B71 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFFFD6162790A0C0003D8B71 /* AppDelegate.swift */; };
 		BFFFD6192790A0C0003D8B71 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFFFD6182790A0C0003D8B71 /* SceneDelegate.swift */; };
@@ -37,6 +39,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		BFBC6CE0279E9DF400DC9CF4 /* launch.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = launch.png; path = ../../launch.png; sourceTree = "<group>"; };
+		BFBC6CE1279E9DF400DC9CF4 /* home.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = home.png; path = ../../home.png; sourceTree = "<group>"; };
 		BFDA61262798B4A200DD6D70 /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
 		BFFFD6132790A0C0003D8B71 /* M-TIP.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "M-TIP.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BFFFD6162790A0C0003D8B71 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -81,6 +85,8 @@
 		BFFFD60A2790A0C0003D8B71 = {
 			isa = PBXGroup;
 			children = (
+				BFBC6CE1279E9DF400DC9CF4 /* home.png */,
+				BFBC6CE0279E9DF400DC9CF4 /* launch.png */,
 				BFFFD6152790A0C0003D8B71 /* M-TIP */,
 				BFFFD62C2790A0C3003D8B71 /* M-TIPTests */,
 				BFFFD6362790A0C3003D8B71 /* M-TIPUITests */,
@@ -234,6 +240,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BFBC6CE2279E9DF400DC9CF4 /* launch.png in Resources */,
+				BFBC6CE3279E9DF400DC9CF4 /* home.png in Resources */,
 				BFFFD6232790A0C2003D8B71 /* LaunchScreen.storyboard in Resources */,
 				BFFFD6202790A0C2003D8B71 /* Assets.xcassets in Resources */,
 				BFFFD61E2790A0C0003D8B71 /* Main.storyboard in Resources */,
