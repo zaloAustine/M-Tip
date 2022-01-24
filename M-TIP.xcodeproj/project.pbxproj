@@ -39,8 +39,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		BFBC6CE0279E9DF400DC9CF4 /* launch.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = launch.png; path = ../../launch.png; sourceTree = "<group>"; };
-		BFBC6CE1279E9DF400DC9CF4 /* home.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = home.png; path = ../../home.png; sourceTree = "<group>"; };
+		BFBC6CE0279E9DF400DC9CF4 /* launch.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = launch.png; sourceTree = "<group>"; };
+		BFBC6CE1279E9DF400DC9CF4 /* home.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = home.png; sourceTree = "<group>"; };
 		BFDA61262798B4A200DD6D70 /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
 		BFFFD6132790A0C0003D8B71 /* M-TIP.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "M-TIP.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BFFFD6162790A0C0003D8B71 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -85,8 +85,6 @@
 		BFFFD60A2790A0C0003D8B71 = {
 			isa = PBXGroup;
 			children = (
-				BFBC6CE1279E9DF400DC9CF4 /* home.png */,
-				BFBC6CE0279E9DF400DC9CF4 /* launch.png */,
 				BFFFD6152790A0C0003D8B71 /* M-TIP */,
 				BFFFD62C2790A0C3003D8B71 /* M-TIPTests */,
 				BFFFD6362790A0C3003D8B71 /* M-TIPUITests */,
@@ -107,6 +105,8 @@
 		BFFFD6152790A0C0003D8B71 /* M-TIP */ = {
 			isa = PBXGroup;
 			children = (
+				BFBC6CE1279E9DF400DC9CF4 /* home.png */,
+				BFBC6CE0279E9DF400DC9CF4 /* launch.png */,
 				BFFFD6162790A0C0003D8B71 /* AppDelegate.swift */,
 				BFFFD6182790A0C0003D8B71 /* SceneDelegate.swift */,
 				BFFFD61A2790A0C0003D8B71 /* ViewController.swift */,
